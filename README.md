@@ -1,5 +1,5 @@
 # Traffic Camera Timelapse
-Create a timelapse of all traffic cameras provided from the RMS
+Create a timelapse of all traffic cameras provided from the RMS with views ranging from Pacific Highway to the Sydney Harbour Bridge
 
 ### Dependencies
 * Python >= 3.5
